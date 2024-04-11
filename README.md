@@ -14,3 +14,6 @@ WEB
 ## 🏆 Certifications
 - ADSP (데이터분석준전문가): 데이터 분석 기획부터 분석까지의 전 과정에 대한 지식을 검증하는 자격증
 - SQLD (SQL 개발자): 데이터베이스 설계와 SQL 프로그래밍 능력을 인증하는 자격증
+##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin1875&show_icons=true&theme=radical)
