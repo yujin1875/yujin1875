@@ -11,13 +11,13 @@ WEB
 - Dressing, 옷 코디 추천 시스템
 - Goseumdochi, 학원 강의 포털 & AI 커뮤니티
 
+Open-source software
+- OSS_Paint_2024-1, 그림판 관련 기능을 구현하는 프로젝트
+- OSS_Account_2024-1, 가계부에 관련된 기능을 만드는 프로젝트
+  
 ## 🏆 Certifications
 - ADSP (데이터분석준전문가): 데이터 분석 기획부터 분석까지의 전 과정에 대한 지식을 검증하는 자격증
 - SQLD (SQL 개발자): 데이터베이스 설계와 SQL 프로그래밍 능력을 인증하는 자격증
-
-## :handshake: Open-source software
-- OSS_Paint_2024-1: 그림판 관련 기능을 구현하는 프로젝트
-- OSS_Account_2024-1: 가계부에 관련된 기능을 만드는 프로젝트
 
 ##
 
