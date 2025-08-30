@@ -1,24 +1,20 @@
-## 🎓 Introduction
-안녕하세요.
-컴퓨터공학과 재학중인 양유진입니다.
-백엔드 개발과 데이터 분석을 공부하고 있습니다.
+## 👩‍💻 About Me
+안녕하세요, 꼼꼼함과 문제 해결을 즐기는 양유진입니다.  
+테스트 자동화와 품질 향상을 통해 더 나은 결과물을 만드는 데 관심이 있습니다.
 
-## 💻 Current Projects or Learning
-APP
-- 홈 케어 시스템(Raspberry Pi)
+## 💻 Projects 
+**APP**
+- 홈 케어 시스템 (Raspberry Pi 기반 IoT 프로젝트)
 
-WEB
-- Dressing, 옷 코디 추천 시스템
-- Goseumdochi, 학원 강의 포털 & AI 커뮤니티
+**WEB**
+- Dressing: 옷 코디 추천 시스템  
+- Goseumdochi: 학원 강의 포털 & AI 커뮤니티
 
-Open-source software
-- OSS_Paint_2024-1, 그림판 관련 기능을 구현하는 프로젝트
-- OSS_Account_2024-1, 가계부에 관련된 기능을 만드는 프로젝트
-  
-## 🏆 Certifications
-- ADSP (데이터분석준전문가): 데이터 분석 기획부터 분석까지의 전 과정에 대한 지식을 검증하는 자격증
-- SQLD (SQL 개발자): 데이터베이스 설계와 SQL 프로그래밍 능력을 인증하는 자격증
+**Open Source**
+- OSS_Paint_2024-1: 그림판 관련 기능 구현  
+- OSS_Account_2024-1: 가계부 관리 기능 구현
 
-##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin1875&show_icons=true&theme=radical)
+## 📜 Certifications
+- ADSP (데이터분석준전문가)  
+- SQLD (SQL 개발자)  
+- ISTQB Certified Tester Foundation  
