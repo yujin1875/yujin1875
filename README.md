@@ -29,6 +29,7 @@
 ## 💻 Project
 | 기간 | 주요 내용 |
 |:--:|:--:|
+| 2026.1.7 ~ 2026.1.10 | <div align="left"> API 테스트 자동화 및 CI 환경 실습 - Postman / pytest 기반 API 테스트 자동화<br/> GitHub Actions CI 환경에서 MySQL 테스트 DB 연동 및 자동 테스트 구성|
 | 2025.12.8 ~ 2025.12.24 | <div align="left"> AI 헬피봇 서비스 QA 및 테스트 자동화 - Selenium + Pytest 기반 웹 서비스 E2E 자동화 테스트 설계 및 구현<br/> Jenkins CI/CD 파이프라인 연동을 통한 자동 테스트 환경 구축 및 테스트 안정성 개선|
 | 2024.4.21 ~ 2024.11.18 | <div align="left"> Goseumdochi 학원 강의 포털 & 커뮤니티 - 학생·강사·관리자용 통합 교육 플랫폼 개발 <br/> Spring Boot & React 기반 회원 관리, 과제 제출, 채점 시스템 및 GCP GCS 연계 학습 자료 관리 기능 구현 |
 | 2024.5.29 ~ 2024.6.4 | <div align="left"> 협업 기반 오픈소스 기능 개선 (Fork & Feature) - Git Fork/PR 프로세스를 활용한 대규모 협업 프로젝트 <br/> 그림판(패턴/브러시/텍스트 편집) 및 가계부(필터링/그래프) 오픈소스의 신규 기능 구현 및 코드 리뷰 참여|
